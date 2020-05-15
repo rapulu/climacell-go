@@ -1,4 +1,4 @@
-module github.com/andyhaskell/climacell-go
+module github.com/andyhaskell/climacell
 
 go 1.14
 
